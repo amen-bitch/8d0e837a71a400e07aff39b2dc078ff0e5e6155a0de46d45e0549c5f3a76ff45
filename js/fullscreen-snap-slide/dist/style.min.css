@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  background: #323232; }
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+section,
+.debug {
+  color: white; }
+
+/*# sourceMappingURL=style.min.css.map */
